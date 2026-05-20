@@ -1,0 +1,5 @@
+- name : "setup {{component}} sevrer"
+  hosts : "{{ component }}"
+  become : yes
+  roles :
+   - "{{ component }}"
