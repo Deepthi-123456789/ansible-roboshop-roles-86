@@ -1,0 +1,3 @@
+cart_host : cart.sitaram.icu
+user_host : user.sitaram.icu
+rabbitmq_host : rabbitmq.sitaram.icu
