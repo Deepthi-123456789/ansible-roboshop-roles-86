@@ -2,7 +2,7 @@
   hosts: localhost
   vars:
     ami_id: ami-0220d79f3f480ecf5
-    sg_id: sg-09e62b6f3762029b2
+    sg_id: sg-0cc0fcc211dfab4e5
     zone_id: Z09532653LYSJAOMBYJTE
     domain_name: sitaram.icu
     region: us-east-1
